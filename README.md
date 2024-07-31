@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntiViruS90&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AntiViruS90&theme=dark" alt="Github Streak" /></a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AntiViruS90&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AntiViruS90&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AntiViruS90)](https://git.io/streak-stats)
