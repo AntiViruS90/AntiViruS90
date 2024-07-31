@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/AntiViruS90=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AntiViruS90&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AntiViruS90&theme=dark" alt="Github Streak" /></a>
