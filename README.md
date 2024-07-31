@@ -1,5 +1,5 @@
-## Hi there 👋
 
+<h1 align="center">Hi there, I'm <a href="https://github.com/AntiViruS90">Slava</a> 👋 </h1>
 <!--
 **AntiViruS90/AntiViruS90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy](https://github-profile-trophy.vercel.app/AntiViruS90=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
