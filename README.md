@@ -1,7 +1,7 @@
 ﻿<h1 style="text-align: center">Hi there, I'm <a href="https://github.com/AntiViruS90">Slava</a> 👋 </h1>
 
 <hr>
-<h1><img width="30" height="30" src="https://img.icons8.com/fluency/48/code.png" alt="code"/>Programming languages and Frameworks</h1>
+<h1><img width="26" height="26" src="https://img.icons8.com/fluency/48/code.png" alt="code"/> Programming languages and Frameworks</h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@
 
 <hr>
 
-<h1><img width="30" height="30" src="https://img.icons8.com/fluency/48/laptop.png" alt="laptop"/>IDEs/Editors</h1>
+<h1><img width="26" height="26" src="https://img.icons8.com/fluency/48/laptop.png" alt="laptop"/> IDEs/Editors</h1>
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -27,32 +27,17 @@
 
 <hr>
 
-
-<p style="color: midnightblue; font-size: 32px">
-    <a style="text-decoration: none" href="#"><img width="28" height="28" src="https://img.icons8.com/office/50/trophy.png" alt="trophy"/>
-        Github Profile Trophy
-    </a>
-</p>
-
+<h1><img width="26" height="26" src="https://img.icons8.com/office/50/trophy.png" alt="trophy"/> Github Profile Trophy</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntiViruS90&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
-<p style="color: midnightblue; font-size: 32px">
-    <a style="text-decoration: none" href="#"><img width="28" height="28" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-        Github Streak Info
-    </a>
-</p>
-
+<h1><img width="26" height="26" src="https://img.icons8.com/fluency/48/github.png" alt="github"/> Github Streak Info</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AntiViruS90&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 <hr>
 
-<p style="color: midnightblue; font-size: 32px">
-    <a style="text-decoration: none" href="#"><img width="28" height="28" src="https://img.icons8.com/fluency/48/rebalance-portfolio.png" alt="rebalance-portfolio"/>
-        Top Languages
-    </a>
-</p>
+<h1><img width="26" height="26" src="https://img.icons8.com/fluency/48/rebalance-portfolio.png" alt="rebalance-portfolio"/>  Top Languages</h1>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 alt="stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntiViruS90&hide=javascript&size_weight=0&count_weight=2&layout=compact&theme=radical&langs_count=8&card_width=420" />
