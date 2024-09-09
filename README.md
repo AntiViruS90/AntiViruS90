@@ -2,11 +2,28 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&height=30&lines=Python+backend+developer)](https://git.io/typing-svg)
 
+<details>
+  <summary>👀 About myself ⏬ </summary>
+  My name is Vyacheslav, and I am an aspiring Python backend developer. Over the course of 9 years in the foodservice industry, including 4.5 years in managerial roles (assistant director, manager), I developed strong skills in team management, staff training, and conflict resolution. This gave me hands-on experience in effectively solving problems under stress and organizing work processes.
+My passion for programming began in 2015, which led me to pursue a technical education at university. I am now focused on learning Python and backend development. I have completed a web development course, studying Python, HTML5, CSS3, JavaScript, and frameworks such as Django, Bootstrap, and jQuery. In total, I have completed six academic projects, all of which are available on my GitHub:
+  
+  - [My_First_Exam](https://github.com/AntiViruS90/My_First_Exam)
+  - [Internet_Store (own work)](https://github.com/AntiViruS90/Internet_Store)
+  - [Sale_management](https://github.com/AntiViruS90/Sale_management)
+  - [ModelFilmRegistration](https://github.com/AntiViruS90/ModelFilmRegistration)
+  - [DjangoFurnitureShop (exam work)](https://github.com/AntiViruS90/DjangoFurnitureShop)
+  - [Brain Games](https://github.com/AntiViruS90/python-project-49)
+  - [Difference Calculator](https://github.com/AntiViruS90/python-project-50)   
+    
+Currently, I continue my studies on the Hexlet platform, diving deeper into Python and backend development. I have successfully completed two projects ([Brain Games](https://github.com/AntiViruS90/python-project-49), [Difference Calculator](https://github.com/AntiViruS90/python-project-50)), which are also available in my repository.
+See below for Contact Information
+</details>
+
 - 🌱 I’m currently learning **Python backend developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AntiViruS90](https://github.com/AntiViruS90)
 
-  - 📫 How to reach me:
+- 📫 How to reach me:
         
 |          ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | **slava90nikitin90@gmail.com** |
 |------------------------------------------------------------------------------------------------------------:|--------------------------------|
@@ -68,6 +85,6 @@
 <h1><img width="26" height="26" src="https://img.icons8.com/fluency/48/rebalance-portfolio.png" alt="rebalance-portfolio"/>  Top Languages</h1>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 alt="stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntiViruS90&hide=javascript&size_weight=0&count_weight=2&layout=compact&theme=radical&langs_count=8&card_width=420" />
+  <img height=200 alt="stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntiViruS90&size_weight=0&count_weight=2&layout=compact&theme=radical&langs_count=8&card_width=420" />
 </a>
 <hr>
