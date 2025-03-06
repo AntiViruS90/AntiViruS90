@@ -5,7 +5,7 @@
 <details>
   <summary>👀 About myself ⏬ </summary>
   My name is Vyacheslav, and I am an aspiring Python backend developer. Over the course of 9 years in the foodservice industry, including 4.5 years in managerial roles (assistant director, manager), I developed strong skills in team management, staff training, and conflict resolution. This gave me hands-on experience in effectively solving problems under stress and organizing work processes.
-My passion for programming began in 2015, which led me to pursue a technical education at university. I am now focused on learning Python and backend development. I have completed a web development course, studying Python, HTML5, CSS3, JavaScript, and frameworks such as Django, Bootstrap, and jQuery. In total, I have completed six academic projects, all of which are available on my GitHub:
+My passion for programming began in 2015, which led me to pursue a technical education at university. I am now focused on learning Python and backend development. I have completed a web development course, studying Python, HTML5, CSS3, JavaScript, and frameworks such as Django, Bootstrap, and jQuery. In total, I have completed eight academic projects, all of which are available on my GitHub:
   
   - [My_First_Exam](https://github.com/AntiViruS90/My_First_Exam)
   - [Internet_Store (own work)](https://github.com/AntiViruS90/Internet_Store)
@@ -13,9 +13,12 @@ My passion for programming began in 2015, which led me to pursue a technical edu
   - [ModelFilmRegistration](https://github.com/AntiViruS90/ModelFilmRegistration)
   - [DjangoFurnitureShop (exam work)](https://github.com/AntiViruS90/DjangoFurnitureShop)
   - [Brain Games](https://github.com/AntiViruS90/python-project-49)
-  - [Difference Calculator](https://github.com/AntiViruS90/python-project-50)   
+  - [Difference Calculator](https://github.com/AntiViruS90/python-project-50)
+  - [Pages analyzer](https://github.com/AntiViruS90/python-project-83)
+  - [Task Manager (exam work)](https://github.com/AntiViruS90/python-project-52)
+
     
-Currently, I continue my studies on the Hexlet platform, diving deeper into Python and backend development. I have successfully completed two projects ([Brain Games](https://github.com/AntiViruS90/python-project-49), [Difference Calculator](https://github.com/AntiViruS90/python-project-50)), which are also available in my repository.
+Currently, I continue my studies on the Hexlet platform, diving deeper into Python and backend development. I have successfully completed four projects ([Brain Games](https://github.com/AntiViruS90/python-project-49), [Difference Calculator](https://github.com/AntiViruS90/python-project-50), [Pages analyzer](https://github.com/AntiViruS90/python-project-83), [Task Manager (exam work)](https://github.com/AntiViruS90/python-project-52)), which are also available in my repository.
 See below for Contact Information
 </details>
 
